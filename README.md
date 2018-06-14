@@ -1,0 +1,2 @@
+# mkxminer
+mkx
